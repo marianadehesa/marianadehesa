@@ -64,7 +64,6 @@ I'm a Software Engineering student passionate about building scalable software s
 
 ![Power BI](https://img.shields.io/badge/Power_BI-111111?style=flat-square&logo=powerbi)
 ![Tableau](https://img.shields.io/badge/Tableau-111111?style=flat-square)
-![Excel](https://img.shields.io/badge/Excel-111111?style=flat-square&logo=microsoftexcel)
 
 ---
 
