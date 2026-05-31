@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=180&section=header&text=Mariana%20Dehesa&fontSize=40&fontColor=ffffff" />
+</p>
+
 # Hi there, I'm Mariana Dehesa 👋
 
 🎓 Software Engineering Student at UPAEP
 
-Passionate about building software solutions through Full Stack Development, Software Architecture and Quality Assurance.
+Passionate about building scalable software solutions through Full Stack Development, Software Architecture and Quality Assurance.
 
 ---
 
@@ -15,6 +19,7 @@ Passionate about building software solutions through Full Stack Development, Sof
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ### Frameworks & Technologies
 
@@ -44,16 +49,16 @@ Passionate about building software solutions through Full Stack Development, Sof
 ## 📌 Featured Projects
 
 ### 📱 MejoraCit
-Citizen incident reporting platform built with React Native, Next.js, TypeScript and Supabase, featuring AI-powered assistance and incident tracking.
+Citizen incident reporting platform built with React Native, Next.js, TypeScript and Supabase. Includes AI-powered assistance, incident tracking and quality assurance processes.
 
 ### 🏥 GyoLap
-Full Stack medical office management system for appointments, medical records, prescriptions, inventory and provider management.
+Full Stack medical office management system with appointment scheduling, medical records, prescriptions, inventory and provider management.
 
 ### 📚 Digital Library System
-Object-oriented library management system developed with TypeScript.
+Object-oriented library management system developed with TypeScript, applying software engineering and OOP principles.
 
 ### 🌦 Weather Web Server
-Weather information platform integrating external APIs.
+Weather information platform integrating external APIs and modern web development practices.
 
 ---
 
