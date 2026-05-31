@@ -4,7 +4,7 @@
 
 # Hi there, I'm Mariana Dehesa 👋
 
-🎓 Software Engineering Student at UPAEP
+Software Engineering Student at UPAEP
 
 Passionate about building scalable software solutions through Full Stack Development, Software Architecture and Quality Assurance.
 
