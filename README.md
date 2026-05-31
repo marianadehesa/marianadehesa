@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:2E2E2E&height=180&section=header&text=Mariana%20Dehesa&fontSize=42&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=180&section=header&text=Mariana%20Dehesa&fontSize=42&fontColor=ffffff" />
 </p>
 
 <h1 align="center">Hi, I'm Mariana 👋</h1>
